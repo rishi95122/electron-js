@@ -27,7 +27,7 @@ const {
 
 ## Credits
 
-🛠 Built by Electron Protocol , based on [Cosmology ⚛️](https://cosmology.tech/validator) goodness!
+🛠 Built by Electron Protocol , based on [Cosmology ⚛️](https://cosmology.zone/validator) goodness!
 
 Using CosmWasm TS Codegen:
 
